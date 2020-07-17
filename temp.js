@@ -1,3 +1,3 @@
-var a = 1;
-var b = 2;
-var c = 3;
+var A = 11;
+var B = 22;
+var C = 33;
